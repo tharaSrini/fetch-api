@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+  padding: 30px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 24px;
+  border-radius: 10px;
+}
+
+#usersList {
+  list-style: none;
+  padding: 0;
+}
+
+#usersList li {
+  padding: 14px;
+  margin-bottom: 10px;
+  background: #eef4ff;
+  border-radius: 6px;
+}
